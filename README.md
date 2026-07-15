@@ -49,7 +49,7 @@
 - Implemented data validation, documentation, and governance practices ensuring high-quality datasets and alignment with research data lifecycle standards.  
 **Tech:** SQL, Python, Power BI
 
-> Swap the `#` links above for your actual repo URLs once they're live.
+> 
 
 ---
 
